@@ -9,8 +9,3 @@ jobs:
     steps:
       - name: say hellow to everyone
         run: echo "Hello Dosto"
-# Should be insite the job
-
-# Actions
-
-# Should be inside the Steps
