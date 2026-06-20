@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: say hellow to everyone
-      - run: echo "Hello Dosto"
+        run: echo "Hello Dosto"
 # Should be insite the job
 
 # Actions
