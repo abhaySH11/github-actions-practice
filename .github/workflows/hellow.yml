@@ -1,0 +1,16 @@
+name: hellows
+
+on: 
+  workflow_dispatch: 
+
+jobs:
+  say-hellow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: say hellow to everyone
+      - run: echo "Hello Dosto"
+# Should be insite the job
+
+# Actions
+
+# Should be inside the Steps
